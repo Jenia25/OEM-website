@@ -114,7 +114,7 @@ nav {
   content: "";
   position: absolute;
   inset: 0;
-  background: url('images/background.jpg') center/cover;
+  background: url('background.jpg') center/cover;
   filter: brightness(0.6);
 }
 
@@ -243,3 +243,4 @@ footer {
   margin: 30px auto;
   color: #444;
 }
+
